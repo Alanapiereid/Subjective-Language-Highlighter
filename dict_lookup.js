@@ -3,8 +3,6 @@ function myFunction() {
     var sent = document.getElementById("sent").value;
     var text_out = []
     console.log(sent)
-  
-    document.getElementById("popup").innerHTML = "dummy text"
       
     var splitsent = sent.split(" ");
   
